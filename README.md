@@ -4,6 +4,14 @@ This repository contains a Python script, `cal_pi.py`, which calculates pi (π) 
 
 
 ## Installation
+
+The folder will be saved in the environment where the clone was executed.
+example:
+`/Users/your_user_name/PiCalculator`
+
+If you want to change the save location of the folder, use the cd command to move to the directory and then execute.
+
+
 To get started with this project, you'll need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
 ``` copy
@@ -18,11 +26,12 @@ __To run this script, Python must be installed on your system.__
 
 Once you have cloned the repository, navigate to the cloned directory and run the script with Python by entering the following command.
 
-First, please move to the clone directory:
+<br>
 
-``` copy
-cd /PiCulculator
-```
+__Process__
+
+
+First, use the cd command to go to the clone directory.
 
 Next, execute the following command in the command line:
 
